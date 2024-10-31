@@ -10,3 +10,4 @@ python3 script.py
 
 >[!TIP]
 > Si se encuentra en un sistema windows, utilice py en lugar de python3
+
